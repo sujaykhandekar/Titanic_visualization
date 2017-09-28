@@ -19,17 +19,17 @@ Data I picked up a very easy dataset and with my level of exposure to the tool, 
 
 Now let me go into the details of each of the story points:
 
-The first story point is actually a dashboard that has data about males and females who boarded the Titanic. The reason I split the y axis into 2 to show survival and class as well was because, I wanted them to fall in the same plot but with a differentiating line which lead me to a split plot within a plot
+1.The first story point is actually a dashboard that has data about males and females who boarded the Titanic. The reason I split the y axis into 2 to show survival and class as well was because, I wanted them to fall in the same plot but with a differentiating line which lead me to a split plot within a plot
 
-The ages story was ok with a distribution in terms of a histogram. But, I felt it would be better to show to the people how many of a certain age group survived or died. The red and green color are chosen to show danger and safe zones in general and hence green to encode survival and red to encode death.
+2.The ages story was ok with a distribution in terms of a histogram. But, I felt it would be better to show to the people how many of a certain age group survived or died. The red and green color are chosen to show danger and safe zones in general and hence green to encode survival and red to encode death.
 
-The bubble chart to show the group was a experimental choice for me as I could show this using a bar graph as well. But, I think the measure of size fits well here as there is significant change in sizes of the bubbles per class.
+3.The bubble chart to show the group was a experimental choice for me as I could show this using a bar graph as well. But, I think the measure of size fits well here as there is significant change in sizes of the bubbles per class.
 
-Since there were 3 classes of passengers, we would want to see if places they boarded from showed something about the affordability of the passengers and hence the classes. It seems, max number of people embarked from Southampton and were placed in class3. However, there can be an argument that, the population of people from Southampton was more in other classes as well. But I would say fairly higher in class3.Also class 1 average fare difference is significantly high at cherbourg than at southampton.
+4.Since there were 3 classes of passengers, we would want to see if places they boarded from showed something about the affordability of the passengers and hence the classes. It seems, max number of people embarked from Southampton and were placed in class3. However, there can be an argument that, the population of people from Southampton was more in other classes as well. But I would say fairly higher in class3.Also class 1 average fare difference is significantly high at cherbourg than at southampton.
 
-It was expected that, since maximum people boarded from Southampton, we would see more casualties from there and that is clearly seen in the graph that mentions survival for C or Q or S.
+5.It was expected that, since maximum people boarded from Southampton, we would see more casualties from there and that is clearly seen in the graph that mentions survival for C or Q or S.
 
-We go a step further to deduce that, the death rate for people from class3 and from Southampton was considerable higher, whereas the death rate for people from class1 was lower or proportionally less. The people from class1 fared well irrespective of the places they embarked from.
+6.We go a step further to deduce that, the death rate for people from class3 and from Southampton was considerable higher, whereas the death rate for people from class1 was lower or proportionally less. The people from class1 fared well irrespective of the places they embarked from.
 
 ## Calculated fields
 
