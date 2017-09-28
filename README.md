@@ -4,8 +4,11 @@
 The goal of this project is to highlight the reasons which may have led people to either survive or die in the Titanic disaster. Out of the various features available like Pclass, Embarked, Family members on board, Sex, Ages, etc we will look some particular ones that will lead us to concluding that the feature affected the survival of the people.
 
 Below are the links to the visualizations: 
+
 Titanic Analysis 1: https://public.tableau.com/profile/sujay6256#!/vizhome/Titanic1_11/TitanicAnalysisv1?publish=yes
+
 Titanic Analysis final: https://public.tableau.com/profile/sujay6256#!/vizhome/Titanicfinal/TitanicAnalysisv2
+
 Design decisions and plots
 
 While going through the vizzes, it will be evident that I have used bar graphs mostly to present my data. There are two underlying reasons that support this kind of usage.
