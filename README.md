@@ -3,7 +3,9 @@
 
 The goal of this project is to highlight the reasons which may have led people to either survive or die in the Titanic disaster. Out of the various features available like Pclass, Embarked, Family members on board, Sex, Ages, etc we will look some particular ones that will lead us to concluding that the feature affected the survival of the people.
 
-Below are the links to the visualizations: Titanic Analysis V1 Titanic Analysis V2
+Below are the links to the visualizations: 
+Titanic Analysis 1: https://public.tableau.com/profile/sujay6256#!/vizhome/Titanic1_11/TitanicAnalysisv1?publish=yes
+Titanic Analysis final: https://public.tableau.com/profile/sujay6256#!/vizhome/Titanicfinal/TitanicAnalysisv2
 Design decisions and plots
 
 While going through the vizzes, it will be evident that I have used bar graphs mostly to present my data. There are two underlying reasons that support this kind of usage.
@@ -20,7 +22,7 @@ The ages story was ok with a distribution in terms of a histogram. But, I felt i
 
 The bubble chart to show the group was a experimental choice for me as I could show this using a bar graph as well. But, I think the measure of size fits well here as there is significant change in sizes of the bubbles per class.
 
-Since there were 3 classes of passengers, we would want to see if places they boarded from showed something about the affordability of the passengers and hence the classes. It seems, max number of people embarked from Southampton and were placed in class3. However, there can be an argument that, the population of people from Southampton was more in other classes as well. But I would say fairly higher in class3.
+Since there were 3 classes of passengers, we would want to see if places they boarded from showed something about the affordability of the passengers and hence the classes. It seems, max number of people embarked from Southampton and were placed in class3. However, there can be an argument that, the population of people from Southampton was more in other classes as well. But I would say fairly higher in class3.Also class 1 average fare difference is significantly high at cherbourg than at southampton.
 
 It was expected that, since maximum people boarded from Southampton, we would see more casualties from there and that is clearly seen in the graph that mentions survival for C or Q or S.
 
@@ -39,7 +41,7 @@ In case a person has number of Family Members > 0, then the field is 'Yes' else 
 
 ## Feedback
 
-I received feedback about my viz from 2 people. Below were some of points they mentioned and I incorporated the changes accordingly
+I received feedback about my story from 2 people. Below were some of points they mentioned and I incorporated the changes accordingly
 
 ### Feedback 1 =>
 I am recording below the exact concerns pointed out by reader 1:
@@ -51,8 +53,7 @@ Q2. Did people from certain class belong to certain place
 
 Q3. Also, chart explaining 'how many people had how many dependents' is a bit misleading when you hover anywhere inside a circle as it shows 'Dependents 0 Family members 161'.
 
-Hope this helps :)
-Below are the modifications:
+elow are the modifications:
 
 Q1. A family always supports you, even on Titanic: This has now been changed to: Does having a family member actually increase your chances of survival?
 
