@@ -1,7 +1,7 @@
 # Titanic_visualization
 ## Summary
 
-The goal of this project is to highlight the reasons which may have led people to either survive or die in the Titanic disaster. Out of the various features available like Pclass, Embarked, Family members on board, Sex, Ages, etc we will look some particular ones that will lead us to concluding that the feature affected the survival of the people.
+The goal of this project is to highlight the reasons which may have led people to either survive or die in the Titanic disaster. Out of the various features available like Pclass, Embarked, Family members on board, Sex, Ages, etc I  will look some particular ones that will lead us to concluding that the feature affected the survival of the people.
 
 Below are the links to the visualizations: 
 
